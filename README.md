@@ -102,7 +102,3 @@ The app exposes:
 - `POST /api/ingest` — upload a document and index it
 
 Use the `X-Admin-Key` header when uploading documents; it must match `ADMIN_API_KEY` from `.env`.
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
